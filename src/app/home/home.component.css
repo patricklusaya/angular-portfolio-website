@@ -3,6 +3,15 @@
 
     font-family: 'segoe ui';
 }
+
+.contain{
+  margin-top: 60px;
+}
+@media screen and (max-width: 600px) {
+  .contain{
+    margin-top:0%;
+  }
+}
 .content{
 text-align: center;
 }
