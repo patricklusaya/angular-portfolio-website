@@ -11,11 +11,13 @@ import { HomeComponent } from './home/home.component';
 import { AngularTypewriterEffectModule } from 'angular-typewriter-effect';
 import { NgxPageScrollCoreModule } from 'ngx-page-scroll-core';
 
+
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     HomeComponent,
+    
  
   ],
   imports: [

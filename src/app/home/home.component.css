@@ -323,6 +323,7 @@ text-align: center;
     transform: rotate(-7deg) scale(1.33);
   }
   
+
   .hovereffect-title .project-title-wrapper {
     position: absolute;
     top: 45%;
@@ -546,4 +547,8 @@ text-align: center;
       max-width: 100%;
       height: auto;
       -webkit-backface-visibility: hidden;
+  }
+  .about{
+    width: 80%;
+    margin: auto;
   }
